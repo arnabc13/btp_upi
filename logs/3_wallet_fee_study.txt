@@ -1,0 +1,4 @@
+WALLET FEE STUDY: change in wallets after April 2023, compared with the comparison group
+  Number of payments      +3.2%
+  Value of payments       +6.9%
+  Average payment size    -4.6%

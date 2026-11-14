@@ -1,0 +1,8 @@
+DATA CHECKS
+  UPI monthly data: 127 months (Apr 2016 to Oct 2026)
+  RBI data for 22 payment methods: 68 months (Nov 2019 to Jun 2025)
+  NPCI vs RBI: 65 common months, largest difference 0.41%
+  2021-22 total: 4,597 crore (published 4,597, difference -0.005%)
+  2023-24 total: 13,113 crore (published 13,116, difference -0.023%)
+  2025-26 total: 24,162 crore (published 24,162, difference +0.002%)
+  Value cells set to missing (spreadsheet error): 2018-06, 2018-07, 2018-08, 2018-09
