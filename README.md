@@ -29,7 +29,7 @@ Needs Python 3.10 or newer from [python.org](https://www.python.org).
 2. Open PowerShell and run:
 
 ```
-cd C:\UPI_Data_Forecast_WalletFee
+cd C:\BTP_upi-main
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
