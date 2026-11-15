@@ -69,6 +69,7 @@ python s01_forecast.py 2>&1 | Tee-Object -FilePath ..\logs\2_forecast.txt
 python s02_fee_response.py 2>&1 | Tee-Object -FilePath ..\logs\3_wallet_fee_study.txt
 ```
 
+<<<<<<< HEAD
 Payment sizes and merchant choice model:
 
 ```
@@ -78,6 +79,8 @@ python s03_ticket_distribution.py 2>&1 | Tee-Object -FilePath ..\logs\4_payment_
 python s04_choice_model.py 2>&1 | Tee-Object -FilePath ..\logs\5_choice_model.txt
 ```
 
+=======
+>>>>>>> 318a86718d15f63c62a27c4d6a8a290d54c75c6c
 Return to the project folder when done:
 
 ```
@@ -85,4 +88,7 @@ cd ..
 ```
 
 The steps must be run in this order, because steps 2 and 3 use the data built in step 1.
+<<<<<<< HEAD
 Steps 4 and 5 use the results of steps 1 to 3.
+=======
+>>>>>>> 318a86718d15f63c62a27c4d6a8a290d54c75c6c
